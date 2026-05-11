@@ -26,3 +26,9 @@ Python, pandas, requests, Matplotlib, Tableau
 
 ## Status
 Complete
+
+# Medicare Claims Analytics — CMS 2023
+
+Interactive dashboard exploring Medicare Physician & Other Practitioners 2023 data: provider payments, specialty cost drivers, and chronic disease burden across 50+ specialties.
+
+## 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sara.maknojia/viz/MedicareClaimsAnalytics-SaraMaknojia/MedicareDashboard)
